@@ -1,2 +1,0 @@
-# Myblog
-My laravel bolg
