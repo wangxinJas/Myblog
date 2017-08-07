@@ -1,5 +1,5 @@
 {
-    "name": "laravel/blog_wx",
+    "name": "laravel_wx/blog_wx",
     "description": "The Laravel Blog.",
     "keywords": ["blog", "laravel"],
     "license": "MIT",
